@@ -34,3 +34,6 @@ getSelected(): Determines which answer is selected by the user.
 deselectAnswers(): Unchecks any previously selected answers.
 
 Event Listener: Waits for the click event on the submit button to check the user's answer, update the score, and load the next question. Displays the final score once all questions are answered.##
+
+##OUTPUT
+![Image](https://github.com/user-attachments/assets/89c54cfd-a5ce-463a-ac6a-e9406d48fd42)
